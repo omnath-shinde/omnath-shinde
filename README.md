@@ -28,13 +28,15 @@ Here are some ideas to get you started:
 
 ---
 ### :hammer_and_wrench: Technical Skills :
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,html,css,js,sqlite,mysql,mongodb,django,nodejs,express,react,git,linux)]() 
+<!--
 | Languages | [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,ts)](https://skillicons.dev) |
 |--|--|
 | Frontend    | [![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://github.com/omnath-shinde/Frontend) |
 | Backend     | [![My Skills](https://skillicons.dev/icons?i=django,nodejs,express,)]() |
 | Database    | [![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,mongodb)]()  |
 | Tools       | [![My Skills](https://skillicons.dev/icons?i=git,linux,vscode,idea)]()  |
-
+-->
 
 
 ---
