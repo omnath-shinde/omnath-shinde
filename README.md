@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ---
 ### :fire: My Stats :
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omnath-shinde&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omnath-shinde&theme=github)
 
 ---
 ### :writing_hand: Blog Posts :
